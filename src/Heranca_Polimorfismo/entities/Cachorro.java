@@ -16,7 +16,7 @@ public class Cachorro extends AnimalDeEstimacao {
 
 /* OBSERVAÇÕES:
 
-* A classe "Cachorro" agora é uma Entidade, pois Herda os atributos de "AnimalDeEstimação"(Superclasse ou Classe Mãe),
+* A classe "Cachorro" agora é uma Entidade, pois Herda os atributos de "AnimalDeEstimação"(Superclasse ou Classe Pai),
   tornando-se uma Subclasse (ou Classe Filha).
 *
 * */
