@@ -39,8 +39,17 @@ public class ManipuladorDeStingsTests {
 }
 /* OBSERVAÇÕES:
 
- * Você poderá executar cada bloco de teste de forma indifvidual para garantir que esteja funcionando e, ao final, realizar
- o teste completo colocando a classe inteira em execução.
+ * Você poderá executar cada bloco de teste de forma indifvidual para garantir que esteja funcionando e, ao final,
+   realizar o teste completo colocando a classe inteira em execução.
+
+ * Assertions em JUnit - Em testes unitários com JUnit, os métodos assert* são utilizados para verificar se o
+   comportamento do código sob teste corresponde ao esperado.
 
  * Assertions.assertThrows() - Verifica se a Chamada do Método nos retornará uma exceção.
+
+ * assertEquals(expected, actual) - Ele recebe dois argumentos:
+    . expected: O valor esperado.
+    . actual: O valor retornado pelo código que está sendo testado.
+
+    Serve para confirmar que o resultado final (o que o seu código produziu) é igual ao resultado esperado (expected).
  */
